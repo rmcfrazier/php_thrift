@@ -1,0 +1,24 @@
+{
+    "name": "McFrazier/php_thrift",
+    "type": "library",
+    "description": "Apache Thrift generated PHP",
+    "keywords": ["php","thrift"],
+    "homepage": "http://github.com/rmcfrazier/php_thrift",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Robert McFrazier",
+            "email": "robert@mcfrazier.com",
+            "homepage": "http://blog.robert.mcfrazier.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Thrift": "src"
+        }
+    }
+}
