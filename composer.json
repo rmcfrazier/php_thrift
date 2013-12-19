@@ -1,5 +1,5 @@
 {
-    "name": "McFrazier/php_thrift",
+    "name": "rmcfrazier/php_thrift",
     "type": "library",
     "description": "Apache Thrift generated PHP",
     "keywords": ["php","thrift"],
