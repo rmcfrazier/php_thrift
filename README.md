@@ -38,7 +38,8 @@ Each version will be in its own tag.
 
 Versions in this repo
 ---------------------
-- 0.9.0
 - 0.9.1
+- 0.9.0
+
 
 
